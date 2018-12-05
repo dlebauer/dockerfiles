@@ -1,4 +1,4 @@
-FROM rocker/geospatial:3.4.2
+FROM rocker/geospatial:3.5.1
 MAINTAINER "Tyson Lee Swetnam" tswetnam@cyverse.org
 
 # Original from Terra-Ref https://github.com/terraref/toolserver-dockerfiles/blob/master/rstudio/Dockerfile
